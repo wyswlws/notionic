@@ -4,7 +4,7 @@ import * as React from 'react'
 const Logo = (props) => (
   <svg
     className="icon"
-    viewBox="0 0 100 100"
+    viewBox="0 0 1026 1024"
     xmlns="http://www.w3.org/2000/svg"
     width="24"
     height="24"
