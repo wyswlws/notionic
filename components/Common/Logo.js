@@ -1,8 +1,6 @@
 // https://react-svgr.com/playground/
 import * as React from 'react'
 
-import React from 'react';
-
 const Logo = (props) => (
   <svg
     className="icon"
@@ -29,7 +27,7 @@ const Logo = (props) => (
       fill="#EAB82D"
     ></path>
   </svg>
-);
+)
 
 export default Logo
 
